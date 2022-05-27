@@ -6,8 +6,6 @@ use Autotext\OpenAI\Contracts\Completion;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Psr7\Request;
-use Illuminate\Http\Client\Response;
-use Illuminate\Support\Facades\Http;
 use Psr\Http\Message\ResponseInterface;
 
 class OpenAI implements Completion
