@@ -14,5 +14,8 @@
         "psr-4": {
             "Autotext\\OpenAI\\Test\\": "tests/"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
     }
 }
