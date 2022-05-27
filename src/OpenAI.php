@@ -1,6 +1,6 @@
 <?php
 
-namespace Extsalt\OpenAI;
+namespace Autotext\OpenAI;
 
 class OpenAI
 {

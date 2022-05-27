@@ -1,8 +1,8 @@
 <?php
 
-namespace Extsalt\OpenAI\Test\Unit;
+namespace Autotext\OpenAI\Test\Unit;
 
-use Extsalt\OpenAI\OpenAI;
+use Autotext\OpenAI\OpenAI;
 use Orchestra\Testbench\TestCase;
 
 class InitialTest extends TestCase
